@@ -1,0 +1,4 @@
+{
+  "name":"npm-sub-install-test",
+  "sub_module":["p0", "p1"]
+}
